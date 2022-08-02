@@ -1,2 +1,3 @@
 # java-experiments
-My java projects from high school.
+
+My experiments with the Java programming language.
